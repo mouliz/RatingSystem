@@ -1,5 +1,6 @@
-**Welcome to Wikipedia,
-**the free encyclopedia that anyone can edit.
+**Welcome to Wikipedia,**
+
+the free encyclopedia that anyone can edit.
 6,460,074 articles in English
 The artsBiographyGeographyHistoryMathematicsScienceSocietyTechnologyAll portals
 From today's featured article
