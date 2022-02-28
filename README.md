@@ -1,5 +1,10 @@
 **Just Write Click**
+
 https://www.youtube.com/watch?v=Y2ak5o0IqLw
+
+
+https://justwriteclick.com/blog/wp-content/uploads/2019/01/Octocat-700x300.png
+
 
 Technical writing with Continuous Integration and docs-as-code
 
