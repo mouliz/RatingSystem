@@ -1,5 +1,5 @@
-Just Write Click
-
+**Just Write Click
+**
 Technical writing with Continuous Integration and docs-as-code
 
 Search this website
