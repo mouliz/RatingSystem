@@ -1,4 +1,5 @@
 **Just Write Click**
+https://www.youtube.com/watch?v=Y2ak5o0IqLw
 
 Technical writing with Continuous Integration and docs-as-code
 
